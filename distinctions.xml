@@ -2,7 +2,7 @@
 <!DOCTYPE Distinctions SYSTEM "distinctions.dtd">
 
 <Distinctions>
-	<Distinction.1>
+	<Distinction>
 		<Name>Rick Chubb</Name>
 		<description>School District</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
